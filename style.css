@@ -124,6 +124,7 @@ nav {
   line-height: 26px;
 }
 
+
 /* blog section  style  */
 
 .blog_top {
@@ -456,4 +457,7 @@ button {
   .img-info span {
     font-size: 10px;
   }
+  .heglight_left h1 {
+    font-size: 35px;
+}
 }
